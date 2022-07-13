@@ -1,0 +1,69 @@
+body{
+    text-align: center;
+    background-color: lightgreen;
+  }
+  h1{
+   color: blue;
+    border-style: solid;
+  border-color: orange;
+  border-width:5px;
+  padding:10px;  
+  }
+  h2
+  {
+   color: red;
+    border-style: solid;
+  border-color: green;
+  border-width:5px;
+  padding:10px;  
+  }
+  h3
+  {
+   color: pink;
+    border-style: solid;
+  border-color: cyan;
+  border-width:5px;
+  padding:10px;  
+  }
+  h4
+  {
+   color: turquoise;
+    border-style: solid;
+  border-color: purple;
+  border-width:5px;
+  padding:10px;  
+  }
+  h5
+  {
+   color: yellow;
+    border-style: solid;
+  border-color: lightblue;
+  border-width:5px;
+  padding:10px;  
+  }
+  h6
+  {
+   color: green;
+    border-style: solid;
+  border-color: darkblue;
+  border-width:5px;
+  padding:10px;
+  
+  }
+  h7
+  {
+   color: darkblue;
+    border-style: solid;
+  border-color: red;
+  border-width:5px;
+  padding:10px;
+  }
+  h8
+  {
+   color: gray;
+    border-style: solid;
+  border-color: yellow;
+  border-width:5px;
+  padding:10px;  
+  }
+  
